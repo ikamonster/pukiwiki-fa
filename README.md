@@ -10,7 +10,9 @@ FontAwesome Version 5 向けに実装しているため、互換性にご注意�
 
 ## インストール
 
-fa.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+下記GitHubページからダウンロードした fa.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+
+[https://github.com/ikamonster/pukiwiki-fa](https://github.com/ikamonster/pukiwiki-fa)
 
 ## 使い方
 
